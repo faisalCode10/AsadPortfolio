@@ -142,6 +142,18 @@ const projects = [
     image: "./assets/images/PromptEng-8.webp",
     link: "#"
   },
+  {
+    title: "Prompt Scripts",
+    category: "prompt engineering",
+    image: "./assets/videos/Prompt-Eng-video1.mp4",
+    link: "#"
+  },
+  {
+    title: "Prompt Scripts",
+    category: "prompt engineering",
+    image: "./assets/videos/Prompt-Eng-video2.mp4",
+    link: "#"
+  },
 
   // === Digital Marketing ===
   {
