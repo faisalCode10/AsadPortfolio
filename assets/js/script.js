@@ -154,6 +154,12 @@ const projects = [
     image: "./assets/videos/Prompt-Eng-video2.mp4",
     link: "#"
   },
+  {
+    title: "Prompt Scripts",
+    category: "prompt engineering",
+    image: "./assets/videos/Prompt-Eng-video3.mp4",
+    link: "#"
+  },
 
   // === Digital Marketing ===
   {
